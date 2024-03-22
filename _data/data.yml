@@ -4,8 +4,8 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Darshan Marde
@@ -13,7 +13,7 @@ sidebar:
     avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 
+    email: darshan.d.marde@gmail.com
     phone: 8767531346
     timezone: Mumbai/India Timezone
     citizenship:
@@ -42,7 +42,7 @@ sidebar:
         - idiom: Hindi
           level: Professional
 
-  #  interests:
+    interests:
       title: Interests
       info:
         - item: 
@@ -100,7 +100,6 @@ projects:
     title: Projects
     intro: >
       
-oss:
   
     toolset:
       - name: Python
