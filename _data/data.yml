@@ -63,7 +63,7 @@ education:
     info:
       - degree: BCA
         university: Tilak Maharashtra Vidyapeeth 
-        time: 2023 - 
+       # time: 2023 - 
         details: |
           
             - Bullet point
