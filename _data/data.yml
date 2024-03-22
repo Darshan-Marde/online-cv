@@ -100,7 +100,9 @@ projects:
     title: Projects
     intro: >
       
-  
+  skills:
+    title: Skills &amp; Proficiency
+    
     toolset:
       - name: Python
         level: 70%
