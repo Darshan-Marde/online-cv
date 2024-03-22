@@ -54,9 +54,9 @@ sidebar:
         - item: Gaming 
           link: 
 
-career-profile:
-    title: Career Profile
-    summary: |
+#career-profile:
+#    title: Career Profile
+#    summary: |
        
 education:
     title: Education
@@ -70,35 +70,15 @@ education:
             - Bullet point
        
 
-experiences:
-    title: Experiences
+#experiences:
+#    title: Experiences
     
 
-certifications:
-      title: Certifications
-      list:
-        - name: 
-          start: 
-          end: 
-          organization: 
-          credentialid:
-          credentialurl: 
-          credentialname:
-          details: |
-            
-        - name: 
-          start: 
-          end:
-          organization: 
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-            
 
-projects:
-    title: Projects
-    intro: >
+
+#projects:
+#    title: Projects
+#    intro: >
       
 skills:
     title: Skills &amp; Proficiency
